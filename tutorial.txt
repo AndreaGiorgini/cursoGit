@@ -21,3 +21,7 @@ commit no repositorio remoto.
 criando branch
 
 $git branch develop
+
+mudando de branch
+
+$git checkout develop
