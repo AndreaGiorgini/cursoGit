@@ -11,3 +11,5 @@ $git add arquivo.txt
 commitando
 
 $git commit -m 'mensagem'
+
+commit no repositorio remoto.
