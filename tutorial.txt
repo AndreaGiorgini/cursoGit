@@ -15,3 +15,5 @@ $git commit -m 'mensagem'
 adicionando repositorio remoto
 
 $git remote add origin url
+
+commit no repositorio remoto.
