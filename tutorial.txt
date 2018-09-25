@@ -29,3 +29,7 @@ $git checkout develop
 realizando merge
 
 $git merge master
+
+criando branch git flow
+
+$git checkout -b feature_branch
