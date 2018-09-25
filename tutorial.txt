@@ -17,3 +17,7 @@ adicionando repositorio remoto
 $git remote add origin url
 
 commit no repositorio remoto.
+
+criando branch
+
+$git branch develop
