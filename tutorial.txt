@@ -3,3 +3,11 @@ Tutorial git
 iniciando repositorio
 
 $git init
+
+Adicionando arquivo no git
+
+$git add arquivo.txt
+
+commitando
+
+$git commit -m 'mensagem'
