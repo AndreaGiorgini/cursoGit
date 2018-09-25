@@ -21,3 +21,7 @@ commit no repositorio remoto.
 criando branch
 
 $git branch develop
+
+realizando merge
+
+$git merge master
