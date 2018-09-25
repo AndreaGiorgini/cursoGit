@@ -1,0 +1,5 @@
+Tutorial git 
+
+iniciando repositorio
+
+$git init
