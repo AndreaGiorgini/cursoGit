@@ -25,3 +25,7 @@ $git branch develop
 mudando de branch
 
 $git checkout develop
+
+realizando merge
+
+$git merge master
